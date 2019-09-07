@@ -11,7 +11,6 @@
 // about supported directives.
 //= require jquery
 //= require jquery-ujs
-//= require activestorage
 //= require turbolinks
 //= require popper
 //= require tether
